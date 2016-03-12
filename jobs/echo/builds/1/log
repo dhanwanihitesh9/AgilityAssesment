@@ -1,0 +1,9 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\jobs\echo\workspace
+[workspace] $ cmd /c call C:\Windows\TEMP\hudson8159333023370731072.bat
+
+C:\Program Files (x86)\Jenkins\jobs\echo\workspace>Echo "welcome to ISIS official page .. Please send your resume to khalifa@isis.co.org. please support us" 
+"welcome to ISIS official page .. Please send your resume to khalifa@isis.co.org. please support us"
+
+C:\Program Files (x86)\Jenkins\jobs\echo\workspace>exit 0 
+Finished: SUCCESS

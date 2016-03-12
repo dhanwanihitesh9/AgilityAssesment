@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UpstreamCause>
+          <upstreamProject>Install Tomcat Service</upstreamProject>
+          <upstreamUrl>job/Install%20Tomcat%20Service/</upstreamUrl>
+          <upstreamBuild>4</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UpstreamCause>
+              <upstreamProject>Deploy WAR</upstreamProject>
+              <upstreamUrl>job/Deploy%20WAR/</upstreamUrl>
+              <upstreamBuild>6</upstreamBuild>
+              <upstreamCauses>
+                <hudson.model.Cause_-UpstreamCause>
+                  <upstreamProject>Take Backup</upstreamProject>
+                  <upstreamUrl>job/Take%20Backup/</upstreamUrl>
+                  <upstreamBuild>6</upstreamBuild>
+                  <upstreamCauses>
+                    <hudson.model.Cause_-UpstreamCause>
+                      <upstreamProject>Uninstall Tomcat Services</upstreamProject>
+                      <upstreamUrl>job/Uninstall%20Tomcat%20Services/</upstreamUrl>
+                      <upstreamBuild>4</upstreamBuild>
+                      <upstreamCauses>
+                        <hudson.model.Cause_-UserIdCause/>
+                      </upstreamCauses>
+                    </hudson.model.Cause_-UpstreamCause>
+                  </upstreamCauses>
+                </hudson.model.Cause_-UpstreamCause>
+              </upstreamCauses>
+            </hudson.model.Cause_-UpstreamCause>
+          </upstreamCauses>
+        </hudson.model.Cause_-UpstreamCause>
+      </causes>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>19</queueId>
+  <timestamp>1457628342046</timestamp>
+  <startTime>1457628342050</startTime>
+  <result>SUCCESS</result>
+  <duration>5264</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin</workspace>
+  <hudsonVersion>1.638</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

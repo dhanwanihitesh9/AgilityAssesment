@@ -1,0 +1,41 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace
+[workspace] $ cmd /c call C:\Windows\TEMP\hudson5221029149665070935.bat
+
+C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace>robocopy "C:\Users\Hitesh Dhanwani\Desktop\Agility\SourceWAR\sample.war"  
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Mar 10 21:27:13 2016
+
+   Source : C:\Users\Hitesh Dhanwani\Desktop\Agility\SourceWAR\sample.war\
+     Dest - 
+
+    Files : *.*
+	    
+  Options : *.* /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+ERROR : No Destination Directory Specified.
+
+       Simple Usage :: ROBOCOPY source destination /MIR
+
+             source :: Source Directory (drive:\path or \\server\share\path).
+        destination :: Destination Dir  (drive:\path or \\server\share\path).
+               /MIR :: Mirror a complete directory tree.
+
+    For more usage information run ROBOCOPY /?
+
+                                                          
+****  /MIR can DELETE files as well as copy them !
+
+C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace>"C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\"
+'"C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\"' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

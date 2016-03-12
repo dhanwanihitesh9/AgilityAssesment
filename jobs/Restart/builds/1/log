@@ -1,0 +1,11 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\jobs\Restart\workspace
+[workspace] $ cmd /c call C:\Windows\TEMP\hudson6806164017482604618.bat
+
+C:\Program Files (x86)\Jenkins\jobs\Restart\workspace>restart
+'restart' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\jobs\Restart\workspace>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

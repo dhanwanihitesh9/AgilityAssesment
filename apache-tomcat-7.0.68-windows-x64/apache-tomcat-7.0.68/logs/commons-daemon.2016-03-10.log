@@ -1,0 +1,55 @@
+[2016-03-10 19:42:04] [info]  [ 3960] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:42:04] [info]  [ 3960] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 19:42:05] [info]  [ 3960] Service 'Tomcat7' installed
+[2016-03-10 19:42:05] [info]  [ 3960] Commons Daemon procrun finished
+[2016-03-10 19:50:36] [info]  [ 4756] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:50:36] [info]  [ 4756] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 19:50:36] [error] [ 4756] The specified service already exists.
+[2016-03-10 19:50:36] [error] [ 4756] Failed installing 'Tomcat7' service
+[2016-03-10 19:50:36] [error] [ 4756] The specified service already exists.
+[2016-03-10 19:50:36] [error] [ 4756] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-03-10 19:50:37] [error] [ 4756] The specified service already exists.
+[2016-03-10 19:51:12] [info]  [ 3224] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:51:12] [info]  [ 3224] Deleting service...
+[2016-03-10 19:51:12] [info]  [ 3224] Delete service finished.
+[2016-03-10 19:51:12] [info]  [ 3224] Commons Daemon procrun finished
+[2016-03-10 19:51:19] [info]  [ 4784] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:51:19] [info]  [ 4784] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 19:51:20] [info]  [ 4784] Service 'Tomcat7' installed
+[2016-03-10 19:51:20] [info]  [ 4784] Commons Daemon procrun finished
+[2016-03-10 19:54:12] [info]  [ 5816] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:54:12] [info]  [ 5816] Deleting service...
+[2016-03-10 19:54:12] [info]  [ 5816] Delete service finished.
+[2016-03-10 19:54:12] [info]  [ 5816] Commons Daemon procrun finished
+[2016-03-10 19:54:53] [info]  [ 1112] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:54:53] [info]  [ 1112] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 19:54:53] [info]  [ 1112] Service 'Tomcat7' installed
+[2016-03-10 19:54:54] [info]  [ 1112] Commons Daemon procrun finished
+[2016-03-10 19:55:57] [info]  [ 5972] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:55:57] [info]  [ 5972] Deleting service...
+[2016-03-10 19:55:57] [info]  [ 5972] Delete service finished.
+[2016-03-10 19:55:57] [info]  [ 5972] Commons Daemon procrun finished
+[2016-03-10 19:56:04] [info]  [ 5500] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 19:56:04] [info]  [ 5500] Deleting service...
+[2016-03-10 19:56:04] [error] [ 5500] The specified service does not exist as an installed service.
+[2016-03-10 19:56:04] [info]  [ 5500] Delete service finished.
+[2016-03-10 19:56:04] [error] [ 5500] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2016-03-10 19:56:04] [error] [ 5500] The specified service does not exist as an installed service.
+[2016-03-10 21:59:42] [info]  [ 2480] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 21:59:42] [info]  [ 2480] Deleting service...
+[2016-03-10 21:59:42] [error] [ 2480] The specified service does not exist as an installed service.
+[2016-03-10 21:59:42] [info]  [ 2480] Delete service finished.
+[2016-03-10 21:59:42] [error] [ 2480] Commons Daemon procrun failed with exit value: 9 (Failed to delete service)
+[2016-03-10 21:59:42] [error] [ 2480] The specified service does not exist as an installed service.
+[2016-03-10 22:00:10] [info]  [ 4480] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 22:00:10] [info]  [ 4480] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 22:00:11] [info]  [ 4480] Service 'Tomcat7' installed
+[2016-03-10 22:00:11] [info]  [ 4480] Commons Daemon procrun finished
+[2016-03-10 22:15:02] [info]  [ 5948] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 22:15:02] [info]  [ 5948] Deleting service...
+[2016-03-10 22:15:02] [info]  [ 5948] Delete service finished.
+[2016-03-10 22:15:02] [info]  [ 5948] Commons Daemon procrun finished
+[2016-03-10 22:15:32] [info]  [ 3948] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2016-03-10 22:15:32] [info]  [ 3948] Service Tomcat7 name Apache Tomcat 7.0 Tomcat7
+[2016-03-10 22:15:32] [info]  [ 3948] Service 'Tomcat7' installed
+[2016-03-10 22:15:32] [info]  [ 3948] Commons Daemon procrun finished

@@ -1,0 +1,8 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\jobs\Restart\workspace
+[workspace] $ cmd /c call C:\Windows\TEMP\hudson2775856802941607296.bat
+
+C:\Program Files (x86)\Jenkins\jobs\Restart\workspace>shutdown -r 
+
+C:\Program Files (x86)\Jenkins\jobs\Restart\workspace>exit 0 
+Finished: SUCCESS

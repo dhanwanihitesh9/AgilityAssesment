@@ -1,0 +1,20 @@
+Started by upstream project "[8mha:AAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYF/az8JH3PvOKSxJwcVSODkPzc5MQSICM4tagsMzlVHwCG/+5Q1QAAAA==[0mInstall Tomcat Service" build number [8mha:AAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkX9rPwkfc+84pLEnBxVI4OQ/NzkxBIgIzi1qCwzOVXfGAAlItUb1gAAAA==[0m3
+originally caused by:
+ Started by upstream project "[8mha:AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwuoBn6WflJ+i6pBTn5lapGBuGOQfoAXG4ckscAAAA=[0mDeploy WAR" build number [8mha:AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwkfZfUgpz8SlUjg3DHIH1TAEJrxfXIAAAA[0m5
+ originally caused by:
+  Started by upstream project "[8mha:AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZh/az8JP2QxOxUVSMDp8Tk7NICfQAdXfUUyAAAAA==[0mTake Backup" build number [8mha:AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwk/ZDE7FRVIwOnxOTs0gJ9UwDDxHKFyQAAAA==[0m5
+  originally caused by:
+   Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZl/az8JP3QvMy84pLEnBxVI4OQ/NzkxBIgIzi1qCwzObVYHwDRXW0G2AAAAA==[0mUninstall Tomcat Services" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhX9rPwk/dC8zLziksScHFUjg5D83OTEEiAjOLWoLDM5tVjfGABa6qYm2QAAAA==[0m3
+   originally caused by:
+    Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin
+[bin] $ cmd /c call C:\Windows\TEMP\hudson7764191820157472557.bat
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin>startup.bat
+Using CATALINA_BASE:   "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68"
+Using CATALINA_HOME:   "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68"
+Using CATALINA_TMPDIR: "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jre1.8.0_60"
+Using CLASSPATH:       "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin\bootstrap.jar;C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\bin\tomcat-juli.jar"
+Process leaked file descriptors. See http://wiki.jenkins-ci.org/display/JENKINS/Spawning+processes+from+build for more information
+Finished: SUCCESS

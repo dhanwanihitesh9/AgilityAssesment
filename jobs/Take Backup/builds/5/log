@@ -1,0 +1,32 @@
+Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZl/az8JP3QvMy84pLEnBxVI4OQ/NzkxBIgIzi1qCwzObVYHwDRXW0G2AAAAA==[0mUninstall Tomcat Services" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhX9rPwk/dC8zLziksScHFUjg5D83OTEEiAjOLWoLDM5tVjfGABa6qYm2QAAAA==[0m3
+originally caused by:
+ Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins
+[Jenkins] $ cmd /c call C:\Windows\TEMP\hudson3171253135902777760.bat
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>BackupWAR.bat
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set CURR_TIME=21:59:50.39 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set HOUR=21 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set MIN=59 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set SEC=50 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set CURR_DATE=Thu 03/10/2016 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set MONTH=03 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set DAY=10 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set YEAR=16 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>set VERSION=160310215950 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>if EXIST "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\sample" (rename "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\sample" "sample160310215950" ) 
+
+C:\Users\Hitesh Dhanwani\Desktop\Agility\Scripts\Jenkins>if EXIST "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\sample.war" (rename "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\sample.war" "sample160310215950.war" ) 
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwuoBn6WflJ+i6pBTn5lapGBuGOQfoAXG4ckscAAAA=[0mDeploy WAR
+Finished: SUCCESS

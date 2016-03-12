@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UpstreamCause>
+          <upstreamProject>Take Backup</upstreamProject>
+          <upstreamUrl>job/Take%20Backup/</upstreamUrl>
+          <upstreamBuild>6</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UpstreamCause>
+              <upstreamProject>Uninstall Tomcat Services</upstreamProject>
+              <upstreamUrl>job/Uninstall%20Tomcat%20Services/</upstreamUrl>
+              <upstreamBuild>4</upstreamBuild>
+              <upstreamCauses>
+                <hudson.model.Cause_-UserIdCause/>
+              </upstreamCauses>
+            </hudson.model.Cause_-UpstreamCause>
+          </upstreamCauses>
+        </hudson.model.Cause_-UpstreamCause>
+      </causes>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>17</queueId>
+  <timestamp>1457628322017</timestamp>
+  <startTime>1457628322017</startTime>
+  <result>SUCCESS</result>
+  <duration>313</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace</workspace>
+  <hudsonVersion>1.638</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

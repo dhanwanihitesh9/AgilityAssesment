@@ -1,0 +1,27 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace
+[workspace] $ cmd /c call C:\Windows\TEMP\hudson2334572548175013865.bat
+
+C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace>robocopy "C:\Users\Hitesh Dhanwani\Desktop\Agility\SourceWAR\sample.war" "C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps\" 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Mar 10 21:28:20 2016
+
+   Source : C:\Users\Hitesh Dhanwani\Desktop\Agility\SourceWAR\sample.war\
+     Dest : C:\Users\Hitesh Dhanwani\Desktop\Agility\apache-tomcat-7.0.68-windows-x64\apache-tomcat-7.0.68\webapps"\
+
+    Files : *.*
+	    
+  Options : *.* /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+2016/03/10 21:28:20 ERROR 123 (0x0000007B) Accessing Source Directory C:\Users\Hitesh Dhanwani\Desktop\Agility\SourceWAR\sample.war\
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Program Files (x86)\Jenkins\jobs\Deploy WAR\workspace>exit 16 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
